@@ -18,7 +18,7 @@ namespace ConsoleProjectForGit
         {
             int a = 10, b = 20, c;
             c = a - b;
-            Console.WriteLine("Sub=" , c1);
+            Console.WriteLine("Sub=" + c);
         }
 
         static void Main(string[] args)
