@@ -12,7 +12,7 @@ namespace ConsoleProjectForGit
         {
             int a = 10, b = 20, c;
             c = a + b;
-            Console.WriteLine("Add=" + c);
+            Console.WriteLine("Add=" + c)
         }
         static void Main(string[] args)
         {
